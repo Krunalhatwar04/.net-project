@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\OnlineExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\exams\\dash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\exams\\dash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\exams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\exams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\exams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\exams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\exams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\exams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\questions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\questions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\exams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\exams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\questions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\questions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\students\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\students\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|d:\\.net\\onlineexam\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575F3E9-18BB-459C-B88B-773E4E5A4128}|OnlineExam.csproj|solutionrelative:models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\ChangePassword.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Students\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:25:39.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAK0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:02:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.Net\\OnlineExam\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T11:14:05.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Models\\ChangePassword.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "Models\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:16:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Profile.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Students\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:13:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T18:52:37.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Dashboard.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Students\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:09:53.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:26:56.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResultsController.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "Controllers\\ResultsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:11:41.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T07:56:15.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dash.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Exams\\Dash.cshtml",
+              "RelativeDocumentMoniker": "Views\\Exams\\Dash.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Exams\\Dash.cshtml",
+              "RelativeToolTip": "Views\\Exams\\Dash.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T11:10:21.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:54:16.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Exams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Exams\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Exams\\Index.cshtml",
+              "RelativeToolTip": "Views\\Exams\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:12:44.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Exams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Exams\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Exams\\Create.cshtml",
+              "RelativeToolTip": "Views\\Exams\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T05:56:09.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:05:21.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:00:28.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Details.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:23:53.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Exams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Exams\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Exams\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Exams\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:12:42.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamsController.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "Controllers\\ExamsController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:04:46.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Questions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Questions\\Details.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Questions\\Details.cshtml",
+              "RelativeToolTip": "Views\\Questions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:44:27.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Questions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Questions\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Questions\\Index.cshtml",
+              "RelativeToolTip": "Views\\Questions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:44:36.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Exams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Exams\\Details.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Exams\\Details.cshtml",
+              "RelativeToolTip": "Views\\Exams\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:44:41.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Models\\Exam.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Models\\Exam.cs",
+              "RelativeToolTip": "Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:26:46.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Students\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Login.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Students\\Login.cshtml",
+              "RelativeToolTip": "Views\\Students\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T09:09:23.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T09:08:04.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\.Net\\OnlineExam\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Models\\Result.cs",
+              "ToolTip": "D:\\.Net\\OnlineExam\\Models\\Result.cs",
+              "RelativeToolTip": "Models\\Result.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:30:51.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
